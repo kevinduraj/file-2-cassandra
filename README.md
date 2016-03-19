@@ -1,2 +1,4 @@
-File 2 Cassandra
-================
+Import Data in FlatFile to Cassandra
+====================================
+
+* ./file2cassandra.pl
